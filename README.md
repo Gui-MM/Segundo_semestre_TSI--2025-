@@ -2,6 +2,8 @@
 Realizando a primeira alteração
 testando alterar pelo github e puxar para pc
 
+Objetivo: Fazer atividades e subir 
+
 
 # Fluxo de trabalho Git local
 git checkout -b
